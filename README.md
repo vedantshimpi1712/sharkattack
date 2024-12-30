@@ -2,7 +2,7 @@ This project aims to analyze shark attack incidents using a Python-based data pi
 
 The following steps were carried out in the project:
 
-Data Collection/Acquisition 📥
+Data Collection/Acquisition 📥\n/n
 Data Cleaning 🧹
 Data Manipulation 🔄
 Data Visualization (plots, tables) 📈
