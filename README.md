@@ -1,4 +1,4 @@
-Shark Attack Data Pipeline and Analysis
+## Shark Attack Data Pipeline and Analysis
 
 This project aims to analyze shark attack incidents using a Python-based data pipeline. The goal is to explore the data through a series of steps, including data collection, cleaning, manipulation, and visualization. The analysis addresses key questions about shark attacks globally and helps provide insights for shark conservation and safety efforts. 🌍
 
